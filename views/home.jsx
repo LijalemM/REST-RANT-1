@@ -6,8 +6,14 @@ function home () {
           <Def>
               <main>
                   <h1>HOME</h1>
+                  <div>
+                    <img src='/images/beyaynetu.jpg' alt='Mixed vagitables'/>
+                    <div>
+                      photo by <a href='https://unsplash.com/@danielcgold'> Dan Gold </a> on <a href='https://unsplash.com'> Unsplash </a>
+                    </div>
+                  </div>
                   <a href="/places">
-                  <button className="btn-primary">Places Page</button>
+                  <button className="btn btn-primary">Places Page</button>
                   </a>
 
               </main>
